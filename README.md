@@ -2,6 +2,8 @@
 
 Extension to automatically inject text from a knowledge base stored in your web browser.  No server side interaction.
 
+Simply enter the keyword that you provide in the textfield and will expand to the text you provide in the textarea.  This is mean to be used on chat.openai.com
+
 ![image](https://user-images.githubusercontent.com/129564070/235312236-3400df3d-8b72-4a10-87cc-2dceb9c38141.png)
 
 You can install a Chrome extension from a GitHub repository by loading it as an unpacked extension. Here's how to do it:
